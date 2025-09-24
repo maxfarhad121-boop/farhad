@@ -1,0 +1,5 @@
+{
+  "name": "Smart Quiz Challenge",
+  "description": "An interactive quiz game website featuring a chatbot for questions, a lifeline/hint system, a leveling system, and gamified rewards to make learning fun and engaging.",
+  "requestFramePermissions": []
+}
